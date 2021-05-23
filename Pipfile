@@ -9,6 +9,7 @@ djangorestframework = "*"
 pyjwt = "*"
 django-environ = "*"
 drf-yasg = "*"
+gunicorn = "*"
 
 [dev-packages]
 
